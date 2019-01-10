@@ -9,7 +9,7 @@ let SubTask = class extends Task{
         super();
         console.log('Какая-то подзадача');
     }
-}
+};
 
 let task = new Task();
 let subtask = new SubTask();
