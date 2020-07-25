@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CreativeRusBear/learning-ES6.git"
+    "url": "git+https://github.com/corocoto/learning-ES6.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Artem Gusev (corocoto) <gusev2014russia@mail.ru>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CreativeRusBear/learning-ES6/issues"
+    "url": "https://github.com/corocoto/learning-ES6/issues"
   },
-  "homepage": "https://github.com/CreativeRusBear/learning-ES6#readme",
+  "homepage": "https://github.com/corocoto/learning-ES6#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
